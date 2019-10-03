@@ -1,3 +1,18 @@
 Hello!
 I am Purva Natoo.
 Working locally
+
+
+
+---2nd part-----
+
+Class Demo
+{
+   public static void main(String[] args)
+  {
+ 	System.out.println("Hello");
+
+
+
+  }
+}
