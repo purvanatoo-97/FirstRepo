@@ -1,2 +1,5 @@
 File created to understand the branch 1
-change in master by other person
+
+I am changing it to see conflict..
+master base data is changed
+
