@@ -4,3 +4,10 @@ I am changing it to see conflict..
 master base data is changed
 
 change for rebase
+
+
+change for stash
+1
+
+
+change to stash 2
