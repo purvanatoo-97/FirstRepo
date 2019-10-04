@@ -10,7 +10,11 @@ Class Demo
 {
    public static void main(String[] args)
   {
+<<<<<<< HEAD
  	System.out.println("Hello PURVA");
+=======
+ 	System.out.println("Hello purva");
+>>>>>>> in main print hello purva
 
 
 
